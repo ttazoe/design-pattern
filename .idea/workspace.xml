@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d56aeb6f-c95e-4c5e-b4a5-949ee27d1795" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SpectralSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/create/builder/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/create/builder/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/create/builder/SaltWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/create/builder/SaltWaterBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavior/template/Cuttable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavior/template/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavior/template/TanaksWoodCutPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavior/template/Wood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavior/template/WoodCutPrint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
